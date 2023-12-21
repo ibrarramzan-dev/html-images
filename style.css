@@ -3,3 +3,7 @@
   border-radius: 12px;
   margin-bottom: 1rem;
 }
+.box img {
+  width: 350px;
+  height: 220px;
+}
